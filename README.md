@@ -51,3 +51,11 @@ To use this plugin, after activation of the plugin, you should place [table_buil
                                  
 14) pagealign: Alignment for pagination links.                             
 
+## Demo                 
+                 
+
+## The plugin page at wordpress.org: 
+
+To vote or write a review for this plugin, please see following link:              
+
+https://wordpress.org/plugins/table-builder-for-csv/
