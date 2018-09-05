@@ -53,6 +53,7 @@ To use this plugin, after activation of the plugin, you should place [table_buil
 
 ## Demo                 
                  
+https://github.com/mostafa272/Table-Builder-for-CSV/wiki/Demo                 
 
 ## The plugin page at wordpress.org: 
 
